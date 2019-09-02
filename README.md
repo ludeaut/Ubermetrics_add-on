@@ -1,6 +1,6 @@
 # Ubermetrics_add-on
 Project done in Summer 2019 while I was part of INTK as a software development intern. <br/>
-Website here: https://intk.com/en
+Website here: https://intk.com/en <br/>
 This internship was part of my three-year Master's Degree in Engineering that I follow at Grenoble INP - Ensimag.
 
 Ubermetrics is an add-on which can be used on Google Sheets to fetch Google Analytics and Google Ads data.
